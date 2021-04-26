@@ -1,0 +1,23 @@
+C:\Users\Shermaine\source\repos\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\bin\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.deps.json
+C:\Users\Shermaine\source\repos\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\bin\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.runtimeconfig.json
+C:\Users\Shermaine\source\repos\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\bin\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.runtimeconfig.dev.json
+C:\Users\Shermaine\source\repos\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\bin\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.dll
+C:\Users\Shermaine\source\repos\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\bin\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.pdb
+C:\Users\Shermaine\source\repos\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\obj\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.csprojAssemblyReference.cache
+C:\Users\Shermaine\source\repos\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\obj\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.csproj.CoreCompileInputs.cache
+C:\Users\Shermaine\source\repos\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\obj\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.AssemblyInfoInputs.cache
+C:\Users\Shermaine\source\repos\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\obj\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.AssemblyInfo.cs
+C:\Users\Shermaine\source\repos\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\obj\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.dll
+C:\Users\Shermaine\source\repos\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\obj\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.pdb
+D:\VS C# Backup\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\bin\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.deps.json
+D:\VS C# Backup\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\bin\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.runtimeconfig.json
+D:\VS C# Backup\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\bin\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.runtimeconfig.dev.json
+D:\VS C# Backup\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\bin\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.dll
+D:\VS C# Backup\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\bin\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.pdb
+D:\VS C# Backup\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\obj\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.csprojAssemblyReference.cache
+D:\VS C# Backup\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\obj\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.AssemblyInfoInputs.cache
+D:\VS C# Backup\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\obj\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.AssemblyInfo.cs
+D:\VS C# Backup\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\obj\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.csproj.CoreCompileInputs.cache
+D:\VS C# Backup\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\obj\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.dll
+D:\VS C# Backup\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\obj\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.pdb
+D:\VS C# Backup\DataStructure LIFO_FIFO\DataStructure LIFO_FIFO\obj\Debug\netcoreapp2.1\DataStructure LIFO_FIFO.genruntimeconfig.cache
